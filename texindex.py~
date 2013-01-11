@@ -1,7 +1,7 @@
 #!/usr/bin/python
 """ 
    Generate a flat version of LaTeX document with indexing commands inserted
-   Author: Mehmet Gencer,mehmetgencer@yahoo.com
+   Author: Mehmet Gencer, mgencer@cs.bilgi.edu.tr
 
    The program does two things:
    (1) Takes a Latex input file, if it contains \input{} directives, the external files are inserted in place of these directives.
