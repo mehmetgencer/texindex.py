@@ -1,0 +1,115 @@
+#see http://tug.ctan.org/tex-archive/macros/latex/contrib/index/index.pdf
+#Format:
+# label: -->is usedas first(and only) alternative
+# label:alternative,alternative,...
+# label!sublabel:alternative,...
+#make sure longer entries which contain others come first!
+adaptation:
+absorptive capacity!relative:relative absorptive capacity
+absorptive capacity:
+agent-based:agent-based,agent based
+agent-based!simulation:agent-based simulation,agent based simulation
+Apache:
+business:
+cognitive distance:
+collaboration:
+commodity/commodification:commodity,commodification
+communication!intensity:
+communication!efficiency:
+communication:
+communities!user:user communities
+communities!expert:expert communities
+communities!of practice:CoP,Communities of practice
+communities!sub-:sub-communities
+communities:community,communities
+community!size:community size
+community!growth:community growth
+community!design:community design
+community:
+compatibility:compatibility,compatible
+competition:
+competition!personal:personal competition
+compiler:
+complexity:
+computer program:
+conversation!depth:conversation depth
+conversation!breadth:conversation breadth
+conversation:
+coordination:
+cooperation:
+coopetition:
+departing:
+disintegration!vertical:vertical disintegration
+disintegration:
+division of labor:
+duality:dual,duality
+eclipse!project:
+eclipse!community:
+eclipse!foundation:
+eclipse:
+evolution:evolution,evolutionary
+GCC:
+GLM (Generalized Linear Model):GLM, Generalized Linear Model
+Globus:
+goal novelty:
+GPL (General Public License):GPL,LGPL
+hardware:
+HHI:
+IBM:IBM,IBM's
+information!value:
+information!heterogeneity:
+innovation!open:open innovation
+innovation!open source:open source innovation
+innovation:
+integration!vertical:vertical integration
+integration:
+interdependence!vertical:vertical interdependence
+interdependence:
+interface:interface
+Internet:
+inter-firm:
+inter-organizational:
+intra-organizational:
+ISA:ISA, Industrial Standard Architecture
+joining:
+know-how:
+know-what:
+knowing:
+Linux:
+management:
+maturity:
+modularity:modular,modularity,modularization
+network:networks,network
+network structure:
+newness:
+new members:
+open source:
+OSI:
+OSS/FOSS:OSS,FOSS
+organizational!learning:
+organizational!knowledge:
+participation level:
+problem solving!capacity:
+problem solving!performance:
+problem solving:
+projects:
+projets!sub-:sub-projects
+population!turnover:population turnover
+population:
+responsiveness:
+selection:
+situated learning:
+software!industry
+software:
+specialization:
+standards!non-proprietary: non-proprietary standard
+standards!proprietary:proprietary standard
+standards!open:open standard
+standards:standard
+strategy:strategy,strategies
+strategizing:
+tacit:
+units!sub-:sub-units
+variation:
+variety:
+virtual corporation:
