@@ -2,8 +2,8 @@ This python script makes creating TeX/LaTeX document indexes much easier. It tak
 and an index terms file, and produces LaTeX source with \index{...} commands inserted.
 
 When you want to create indexes in LaTeX, there are two main difficulties:
-# \index{...} commands will make the document source quite difficult to read and edit.
-# It is quite easy to miss locations where a desired index term appears.
+1. \index{...} commands will make the document source quite difficult to read and edit.
+2. It is quite easy to miss locations where a desired index term appears.
 
 Both of these tasks are much easier done by computer rather than by a human. texindex.py 
 uses an index terms file which has the following syntax (lines starting with # are comments):
