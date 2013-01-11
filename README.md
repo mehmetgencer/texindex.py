@@ -50,7 +50,7 @@ Running the program
 
 Multi-part files
 -------------------
-texindex.py will replace any appearance of \include{somefile.tex} with the actual contents of the file, prior to
+texindex.py will replace any appearance of \input{somefile.tex} with the actual contents of the file, prior to
 creating index terms. Thus it will generate a complete source file for LaTeX projects that are split into multiple source
 files.
 
