@@ -1,0 +1,6 @@
+another
+file!another:another file
+file
+contains!inserted: inserted into
+contains:contain,insert
+
